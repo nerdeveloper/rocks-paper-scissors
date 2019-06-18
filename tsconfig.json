@@ -6,5 +6,7 @@
       "outDir": "dist",
       "sourceMap": true
     },
+    "compileOnSave": true,
+    "include": ["src"],
     "exclude": ["node_modules"]
   }
