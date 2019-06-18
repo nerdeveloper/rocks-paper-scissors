@@ -7,6 +7,6 @@
       "sourceMap": true
     },
     "compileOnSave": true,
-    "include": ["src"],
+    "include": ["src", "src/index.ts"],
     "exclude": ["node_modules"]
   }

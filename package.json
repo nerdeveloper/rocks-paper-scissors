@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run test",
     "watch": "./node_modules/.bin/tsc -w",
-    "lint": "/node_modules/.bin/eslint ."
+    "lint": "./node_modules/.bin/eslint '**/*.ts"
 
   },
   "author": "",
