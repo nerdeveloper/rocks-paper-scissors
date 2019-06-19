@@ -7,7 +7,7 @@
     "test": "npm run test",
     "watch": "./node_modules/.bin/tsc -w",
     "lint": "./node_modules/.bin/eslint '**/*.ts",
-    "serve": "npm run watch && node dist/index.js "
+    "serve": "./node_modules/.bin/tsc && node dist/index.js "
 
   },
   "author": "",
