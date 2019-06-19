@@ -3,3 +3,5 @@ node_modules
 .ideas
 .vscode
 dist
+coverage
+.nyc_output
