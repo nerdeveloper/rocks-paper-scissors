@@ -10,8 +10,8 @@
     "test": "jasmine-ts --config=jasmine.json",
     "coverage": "nyc -r text -e .ts -x \"tests/*.test.ts\" jasmine-ts --config=jasmine.json"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Obinna Odirionye",
+  "license": "MIT",
   "devDependencies": {
     "@types/jasmine": "^3.3.13",
     "@typescript-eslint/eslint-plugin": "^1.10.2",
