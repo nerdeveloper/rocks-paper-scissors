@@ -11,7 +11,6 @@ export const checkMatch = (player: string, randomPlayer: string) => {
             return 'Rock losses';
         }
     }
-    
 };
 export const checkPlayers = (player: string, randomPlayer: string) => {
     return console.log(`${player} + ${randomPlayer} = ${checkMatch(player, randomPlayer)}`);
