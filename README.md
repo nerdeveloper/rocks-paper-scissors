@@ -1,4 +1,4 @@
-# GETAWAT TYPESCRIPT APP
+# GETAWAY TYPESCRIPT APP
 
 This app was developed in Typescript as Coding challenge for GETAWAY.
 
