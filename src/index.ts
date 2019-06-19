@@ -1,3 +1,5 @@
+
+export module rocksPaperScissors {
 let player = 'rock';
 let otherPlayers: string[] = ['paper', 'scissors'];
 
@@ -27,3 +29,4 @@ let myLoop = () => {
     }, 100);
 };
 myLoop();
+}
