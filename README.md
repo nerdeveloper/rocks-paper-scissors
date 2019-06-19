@@ -1,4 +1,7 @@
+
 # GETAWAY TYPESCRIPT APP
+
+[![Build Status](https://travis-ci.org/nerdeveloper/rocks-paper-scissors.svg?branch=master)](https://travis-ci.org/nerdeveloper/rocks-paper-scissors)
 
 This app was developed in Typescript as Coding challenge for GETAWAY.
 
