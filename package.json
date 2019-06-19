@@ -4,7 +4,6 @@
   "description": "this is interview game on rock paper scissors",
   "main": "index.ts",
   "scripts": {
-    "test": "npm run test",
     "watch": "./node_modules/.bin/tsc -w",
     "lint": "./node_modules/.bin/eslint '**/*.ts'",
     "serve": "./node_modules/.bin/tsc && node dist/index.js",
