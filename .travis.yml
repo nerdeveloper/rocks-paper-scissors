@@ -14,5 +14,5 @@ script:
   - npm run test
   - npm run coverage
 after_success:
-   - now run serve
+   - npm run serve
   
