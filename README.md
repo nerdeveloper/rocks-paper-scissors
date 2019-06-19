@@ -17,6 +17,12 @@ npm run serve
 npm run test
 ```
 
+## Linting
+
+```bash
+npm run lint
+```
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
