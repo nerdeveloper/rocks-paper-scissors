@@ -6,8 +6,9 @@
   "scripts": {
     "test": "npm run test",
     "watch": "./node_modules/.bin/tsc -w",
-    "lint": "./node_modules/.bin/eslint '**/*.ts",
-    "serve": "./node_modules/.bin/tsc && node dist/index.js "
+    "lint": "./node_modules/.bin/eslint '**/*.ts'",
+    "serve": "./node_modules/.bin/tsc && node dist/index.js",
+    "test": "mocha -r ts-node/register tests/**/*.test.ts"
   },
   "author": "",
   "license": "ISC",
