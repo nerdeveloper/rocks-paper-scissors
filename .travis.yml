@@ -9,7 +9,7 @@ notifications:
   email: false
 before_script:
   - npm install
-  - npm lint
+  - npm run lint
 script:
   - npm run test
   - npm run coverage
