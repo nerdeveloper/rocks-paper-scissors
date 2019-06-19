@@ -23,7 +23,7 @@ export const myLoop = () => {
 
         checkPlayers(player, randomPlayer);
         i++;
-        if (i <= 10) {
+        if (i <= 100) {
             myLoop();
         }
     }, 100);
