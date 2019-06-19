@@ -7,7 +7,8 @@ let i = 1;
 
 // Check to see if the winner between ROCL and any other play
 export const checkMatch = (player: string, randomPlayer: string) => {
-    if (player === 'rock' && randomPlayer === 'scissors') { // conditional statement
+    // conditional statement
+    if (player === 'rock' && randomPlayer === 'scissors') {
         return 'rock wins';
     } else {
         if (randomPlayer === 'paper') {
